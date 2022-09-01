@@ -5,7 +5,7 @@
 
 <br>
 
-Soy una desarrolladora web y una apasionada por la tecnología.
+**Soy una desarrolladora web y una apasionada por la tecnología.**
 
 <br>
 
